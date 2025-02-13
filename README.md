@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Prajapati</h1>
-<h3 align="center">🚀 A passionate Full Stack Developer from India 🚀 </h3>
+<h3 align="center">🚀 A Passionate Full Stack Developer from India 🚀</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400"/>
@@ -13,22 +13,22 @@
 ---
 
 ## 🌟 About Me  
-🔹 **Full Stack Developer** specializing in **MERN Stack (MongoDB, Express.js, React.js, Node.js)**  
-🔹 **Passionate about** building scalable web applications, RESTful APIs & UI/UX-driven interfaces  
-🔹 **Strong in** JavaScript, TypeScript, React, Redux, Next.js, Firebase, and modern web technologies  
-🔹 **Continuous Learner** focused on best coding practices, clean architecture & problem-solving  
+🚀 **Full Stack Developer** specializing in **MERN Stack (MongoDB, Express.js, React.js, Node.js)**  
+💡 **Passionate about** building scalable web applications, RESTful APIs & UI/UX-driven interfaces  
+⚡ **Strong in** JavaScript, TypeScript, React, Redux, Next.js, Firebase, and modern web technologies  
+📚 **Continuous Learner** focused on best coding practices, clean architecture & problem-solving  
 
-### 💡 What I Do:  
-✅ Build **responsive and interactive web applications**  
+### 💼 What I Do:  
+✅ Build **responsive & interactive web applications**  
 ✅ Develop **RESTful APIs & back-end solutions**  
-✅ Work with **front-end libraries & frameworks** (React.js, Bootstrap, Tailwind CSS)  
+✅ Work with **front-end frameworks & libraries** (React.js, Bootstrap, Tailwind CSS)  
 ✅ Optimize **performance, security & scalability**  
 ✅ Collaborate on **open-source projects & mentoring**  
 
 ---
 
 ## 🌎 Connect With Me:
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/harsh-prajapati02/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
@@ -40,8 +40,9 @@
 ---
 
 ## 🛠️ Tech Stack:
+
 ### 🚀 Languages:
-<p align="left">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
@@ -49,7 +50,7 @@
 </p>
 
 ### 💻 Frontend:
-<p align="left">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
@@ -58,15 +59,15 @@
 </p>
 
 ### 🖥 Backend & Database:
-<p align="left">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
 </p>
 
-### 🛠 Tools & Others:
-<p align="left">
+### 🛠 Tools & Platforms:
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/>
@@ -90,12 +91,12 @@
 ---
 
 ## ⚡ Fun Facts:
-- 🎯 **Currently Learning:** Advanced MERN Stack, Web Security & Performance Optimization  
-- 🌱 **Hobbies:** Exploring new tech, open-source contributions & mentoring junior devs  
-- 🚀 **Future Goals:** Contribute to large-scale projects & expand into cloud computing  
-- 💬 **Ask me about:** JavaScript, React, Node.js, and best coding practices  
+🎯 **Currently Learning:** Advanced MERN Stack, Web Security & Performance Optimization  
+🌱 **Hobbies:** Exploring new tech, open-source contributions & mentoring junior devs  
+🚀 **Future Goals:** Contribute to large-scale projects & expand into cloud computing  
+💬 **Ask me about:** JavaScript, React, Node.js, and best coding practices  
 
 ---
 
 ### 🎯 "Code is like humor. When you have to explain it, it’s bad." – Cory House  
-🚀 Let's build something amazing together! Connect with me on **[LinkedIn](https://linkedin.com/in/harsh-prajapati02/)**  
+🚀 Let's build something amazing together! Connect with me on **[LinkedIn](https://linkedin.com/in/harsh-prajapati02/)**
