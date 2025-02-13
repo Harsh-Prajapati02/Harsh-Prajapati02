@@ -81,7 +81,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-prajapati02&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.vercel.app/api?username=harsh-prajapati02&show_icons=true&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
