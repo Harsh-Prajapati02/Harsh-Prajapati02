@@ -77,15 +77,15 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Prajapati02&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Prajapati02&theme=graywhite&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Prajapati02&theme=highcontrast&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Prajapati02&theme=graywhite&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Prajapati02&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Prajapati02&theme=graywhite&show_icons=true&hide_border=false&layout=compact" alt="Top Languages"/>
 </p>
 
 ---
