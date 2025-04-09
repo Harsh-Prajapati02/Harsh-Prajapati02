@@ -1,4 +1,4 @@
-![logo](https://github.com/Harsh-Prajapati02/Harsh-Prajapati02/blob/main/Profile_Banner.png)
+![logo](https://github.com/Harsh-Prajapati02/Harsh-Prajapati02/blob/main/Profile_Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Harsh Prajapati</h1>
 <h3 align="center">🚀 A Passionate Full Stack Developer from India 🚀</h3>
 
