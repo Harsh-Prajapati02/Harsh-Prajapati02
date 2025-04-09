@@ -1,11 +1,12 @@
+![logo](https://github.com/Harsh-Prajapati02/Harsh-Prajapati02/blob/main/Profile_Banner.png)
 <h1 align="center">Hi 👋, I'm Harsh Prajapati</h1>
 <h3 align="center">🚀 A Passionate Full Stack Developer from India 🚀</h3>
 
-<p align="center">
+<p align="right">
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=harsh-prajapati02&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/harsh-prajapati02?label=Followers&style=social" alt="GitHub Followers"/>
 </p>
