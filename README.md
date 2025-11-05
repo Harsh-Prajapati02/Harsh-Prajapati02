@@ -30,7 +30,7 @@
 ---
 
 ## 🌎 Connect With Me
-<p align="start">
+<p align="center">
   <a href="https://linkedin.com/in/harsh-prajapati02/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -102,6 +102,10 @@
 - 🎯 Love solving complex problems with simple code  
 - 🚀 Open-source & collaboration enthusiast  
 - 💬 Feel free to reach out for **tech discussions or projects!**  
+
+---
+
+📩 **Let’s collaborate!** Reach me at [harsh.prajapati0206@gmail.com](mailto:harsh.prajapati0206@gmail.com)
 
 ---
 
