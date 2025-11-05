@@ -1,4 +1,5 @@
-![logo](https://github.com/Harsh-Prajapati02/Harsh-Prajapati02/blob/main/Profile_Banner.png?raw=true)
+![Profile Banner](https://github.com/Harsh-Prajapati02/Harsh-Prajapati02/blob/main/Profile_Banner.png?raw=true)
+
 <h1 align="center">Hi 👋, I'm Harsh Prajapati</h1>
 <h3 align="center">🚀 A Passionate Full Stack Developer from India 🚀</h3>
 
@@ -13,102 +14,96 @@
 
 ---
 
-## 🌟 About Me  
+## 🧑‍💻 About Me  
 🚀 **Full Stack Developer** specializing in **MERN Stack (MongoDB, Express.js, React.js, Node.js)**  
-💡 **Passionate about** building scalable web applications, RESTful APIs & UI/UX-driven interfaces  
-⚡ **Strong in** JavaScript, TypeScript, React, Redux, Next.js, Firebase, and modern web technologies  
-📚 **Continuous Learner** focused on best coding practices, clean architecture & problem-solving  
+💡 Passionate about **building scalable web apps, APIs, and UI/UX-driven experiences**  
+⚡ Skilled in **JavaScript, TypeScript, React, Redux, Next.js, Firebase**, and more  
+📚 Continuous learner focused on **clean architecture & best coding practices**
 
-### 💼 What I Do:  
-✅ Build **responsive & interactive web applications**  
-✅ Develop **RESTful APIs & back-end solutions**  
-✅ Work with **front-end frameworks & libraries** (React.js, Bootstrap, Tailwind CSS)  
-✅ Optimize **performance, security & scalability**  
-✅ Collaborate on **open-source projects & mentoring**  
+### 💼 What I Do
+✅ Build **responsive, interactive web applications**  
+✅ Develop **RESTful APIs & scalable backend solutions**  
+✅ Work with **modern frameworks & libraries** (React, Tailwind, Next.js)  
+✅ Optimize **performance, security & maintainability**  
+✅ Contribute to **open-source projects** and mentor fellow devs  
 
 ---
 
-## 🌎 Connect With Me:
-<p>
+## 🌎 Connect With Me
+<p align="start">
   <a href="https://linkedin.com/in/harsh-prajapati02/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/harsh-prajapati02" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:harshprajapati.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack:
+## 🛠️ Tech Stack
 
 ### 🚀 Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 💻 Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40"/>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### 🖥 Backend & Database
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🛠 Tools & Platforms
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-</p>
-
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-Prajapati02&theme=graywhite&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harsh-Prajapati02&show_icons=true&theme=graywhite" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Prajapati02&theme=graywhite" />
+</p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Prajapati02&layout=compact&theme=graywhite" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Prajapati02&theme=graywhite&hide_border=false" alt="GitHub Streak"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Prajapati02&theme=graywhite&show_icons=true&hide_border=false&layout=compact" alt="Top Languages"/>
-</p>
+## 📚 Currently Exploring
+- Advanced TypeScript Patterns  
+- Next.js Server Actions & Edge Functions  
+- PostgreSQL Optimization  
 
 ---
 
 ## ⚡ Fun Facts
-- 🔥 Always looking to **learn new technologies** and **sharpen my skills**
-- 🎯 Love building **real-world projects** and **collaborating with passionate developers**
-- 🚀 Aspiring to **contribute to impactful open-source projects**
-- 💬 Feel free to **reach out for coding help, project ideas, or tech discussions!**  
+- 🔥 Always learning & building new things  
+- 🎯 Love solving complex problems with simple code  
+- 🚀 Open-source & collaboration enthusiast  
+- 💬 Feel free to reach out for **tech discussions or projects!**  
 
 ---
 
-### 🎯 "Code is like humor. When you have to explain it, it’s bad." – Cory House  
-🚀 Let's build something amazing together! Connect with me on **[LinkedIn](https://linkedin.com/in/harsh-prajapati02/)**
-
----
-
-<p align="center">✨ Thank you for visiting my profile! ✨</p>
+### 🎯 *"Code is like humor. When you have to explain it, it’s bad."* — **Cory House**  
+<p align="center">✨ Thanks for visiting my profile! ✨</p>
