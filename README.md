@@ -34,10 +34,10 @@
   <a href="https://linkedin.com/in/harsh-prajapati02/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/harsh-prajapati02" target="_blank">
+  <a href="https://github.com/Harsh-Prajapati02" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:harshprajapati.dev@gmail.com">
+  <a href="mailto:harsh.prajapati0206@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
