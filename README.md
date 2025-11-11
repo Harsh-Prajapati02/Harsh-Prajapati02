@@ -15,17 +15,17 @@
 ---
 
 ## 🧑‍💻 About Me  
-🚀 **Full Stack Developer** specializing in **MERN Stack (MongoDB, Express.js, React.js, Node.js)**  
-💡 Passionate about **building scalable web apps, APIs, and UI/UX-driven experiences**  
+🚀 **Full Stack Developer** specializing in the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**  
+💡 Passionate about **building scalable web apps, APIs, and pixel-perfect UI/UX experiences**  
 ⚡ Skilled in **JavaScript, TypeScript, React, Redux, Next.js, Firebase**, and more  
-📚 Continuous learner focused on **clean architecture & best coding practices**
+📚 A continuous learner focused on **clean architecture & maintainable code**
 
 ### 💼 What I Do
 ✅ Build **responsive, interactive web applications**  
-✅ Develop **RESTful APIs & scalable backend solutions**  
-✅ Work with **modern frameworks & libraries** (React, Tailwind, Next.js)  
-✅ Optimize **performance, security & maintainability**  
-✅ Contribute to **open-source projects** and mentor fellow devs  
+✅ Develop **RESTful APIs & scalable backend systems**  
+✅ Work with **modern frameworks & cloud platforms**  
+✅ Focus on **performance, security, and clean code**  
+✅ Contribute to **open-source projects** & mentor new devs  
 
 ---
 
@@ -44,7 +44,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Tech Stack & Tools I Work With
 
 ### 🚀 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -55,15 +55,19 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+---
+
 ### 💻 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+---
 
 ### 🖥 Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -76,11 +80,29 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🧰 Tools & Platforms
+---
+
+### 🧰 Tools, Platforms & Technologies
+
+#### 🧭 Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+#### ☁️ Deployment & Hosting
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+#### 🧪 API Development
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+#### 🧩 Project Management & Collaboration
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+#### 🎨 Design & Prototyping
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
@@ -96,23 +118,25 @@
 ---
 
 ## 📚 Currently Exploring
-- Advanced TypeScript Patterns  
-- Next.js Server Actions & Edge Functions  
-- PostgreSQL Optimization  
+- 🧠 Advanced TypeScript Patterns  
+- ⚡ Next.js Server Actions & Edge Functions  
+- 🗃️ PostgreSQL Query Optimization  
 
 ---
 
 ## ⚡ Fun Facts
-- 🔥 Always learning & building new things  
-- 🎯 Love solving complex problems with simple code  
-- 🚀 Open-source & collaboration enthusiast  
-- 💬 Feel free to reach out for **tech discussions or projects!**  
+- 🔥 Always learning and experimenting with new tech  
+- 🎯 Love solving complex problems with clean, efficient code  
+- 🤝 Open-source and collaboration enthusiast  
+- 💬 Always up for tech discussions or community contributions  
 
 ---
 
-📩 **Let’s collaborate!** Reach me at [harsh.prajapati0206@gmail.com](mailto:harsh.prajapati0206@gmail.com)
+📩 **Let’s Collaborate!**  
+Reach me at 👉 [harsh.prajapati0206@gmail.com](mailto:harsh.prajapati0206@gmail.com)
 
 ---
 
-### 🎯 *"Code is like humor. When you have to explain it, it’s bad."* — **Cory House**  
+### 🎯 *"Code is like humor. When you have to explain it, it’s bad."* — **Cory House**
+
 <p align="center">✨ Thanks for visiting my profile! ✨</p>
