@@ -42,7 +42,7 @@
 
 ---
 
-## 1️⃣ 🚀 Programming Languages
+## 🚀 Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -53,7 +53,7 @@
 
 ---
 
-## 2️⃣ 💻 Frontend Development
+## 💻 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -68,7 +68,7 @@
 
 ---
 
-## 3️⃣ 🖥 Backend Development
+## 🖥 Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![REST](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -77,7 +77,7 @@
 
 ---
 
-## 4️⃣ 🗄️ Databases & ORMs
+## 🗄️ Databases & ORMs
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -86,7 +86,7 @@
 
 ---
 
-## 5️⃣ ⚙️ Build Tools & Package Managers
+## ⚙️ Build Tools & Package Managers
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
@@ -97,7 +97,7 @@
 
 ---
 
-## 6️⃣ ☁️ DevOps / Deployment / Version Control
+## ☁️ DevOps / Deployment / Version Control
 ### 🔧 Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -109,14 +109,14 @@
 
 ---
 
-## 7️⃣ 🧪 API Development & Testing
+## 🧪 API Development & Testing
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Thunder Client](https://img.shields.io/badge/Thunder_Client-181717?style=for-the-badge)
 
 ---
 
-## 8️⃣ 🔒 Authentication, Security & Identity
+## 🔒 Authentication, Security & Identity
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 ![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![bcrypt](https://img.shields.io/badge/bcrypt-00A98F?style=for-the-badge)
