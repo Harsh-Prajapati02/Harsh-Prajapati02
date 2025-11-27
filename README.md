@@ -97,6 +97,11 @@
 
 ---
 
+## 🛠️ Development Tools
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
 ## ☁️ Deployment & Version Control
 ### 🔧 Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -129,36 +134,3 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
----
-
-# 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harsh-Prajapati02&show_icons=true&theme=graywhite" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Prajapati02&theme=graywhite" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Prajapati02&layout=compact&theme=graywhite" />
-</p>
-
----
-
-## 📚 Currently Exploring
-- Advanced TypeScript Patterns  
-- Next.js Server Actions & Edge Functions  
-- PostgreSQL Query Optimization  
-
----
-
-## ⚡ Fun Facts
-- Love writing clean, maintainable & scalable code  
-- Enjoy solving complex problems  
-- Always open to collaborations & discussions  
-
----
-
-📩 **Let’s Collaborate!**  
-**Email:** 👉 harsh.prajapati0206@gmail.com  
-
-<p align="center">✨ Thanks for visiting my profile! ✨</p>
