@@ -131,3 +131,40 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harsh-Prajapati02&show_icons=true&theme=graywhite" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Prajapati02&theme=graywhite" />
+</p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Prajapati02&layout=compact&theme=graywhite" />
+</p>
+
+---
+
+## 📚 Currently Exploring
+- 🧠 Advanced TypeScript Patterns  
+- ⚡ Next.js Server Actions & Edge Functions  
+- 🗃️ PostgreSQL Query Optimization  
+
+---
+
+## ⚡ Fun Facts
+- 🔥 Always learning and experimenting with new tech  
+- 🎯 Love solving complex problems with clean, efficient code  
+- 🤝 Open-source and collaboration enthusiast  
+- 💬 Always up for tech discussions or community contributions  
+
+---
+
+📩 **Let’s Collaborate!**  
+Reach me at 👉 [harsh.prajapati0206@gmail.com](mailto:harsh.prajapati0206@gmail.com)
+
+---
+
+### 🎯 *"Code is like humor. When you have to explain it, it’s bad."* — **Cory House**
+
+<p align="center">✨ Thanks for visiting my profile! ✨</p>
