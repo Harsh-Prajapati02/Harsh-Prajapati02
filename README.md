@@ -38,6 +38,15 @@
 
 ---
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=harsh-prajapati02&theme=onedark&column=6" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
 # 💼 Tech Stack & Tools
 
 ---
@@ -100,6 +109,7 @@
 ---
 
 ## ☁️ Deployment & Version Control
+
 ### 🔧 Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
